@@ -97,7 +97,7 @@ checkString('huzaifa');
 
 //Task 16
 function round(r){
-    return console.log(`Output after rounf off is ${Math.round(r)}`);
+    return console.log(`Output after round off is ${Math.round(r)}`);
 }
 round(4.6);
 
